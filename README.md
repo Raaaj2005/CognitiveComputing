@@ -34,7 +34,7 @@ A comprehensive collection of lab assignments and projects for the **Cognitive C
 
 ## 👨‍💻 Author
 
-Name: **Raj Fatehveer Singh Brar**
+Name: **Raj Fatehveer Singh Brar** <br>
 Roll No.: **102317090**
 
 Feel free to explore the notebooks or reach out if you have any questions about the implementations!
